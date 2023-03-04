@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello!
 
+I'm Nick Dimitroff, a Linguistic Technologist with @Sensory in Portland, Oregon 🌧️
 
+I mainly work in Tcl and Python and can often be found in the Puget Sound Python slack group @PSPython.
 
 
 <!--
